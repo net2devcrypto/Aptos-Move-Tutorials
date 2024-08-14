@@ -1,7 +1,7 @@
 # Aptos-Move-Tutorials
 Net2Dev Official Aptos Blockchain development Tutorial Videos GitHub Repo
 
-<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/anchorlogo.png" width="150" height="45"> 
+<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/aptosthumb-2.png" width="650" height="370"> 
 
 > [!NOTE]  
 > THE FILES ATTACHED TO THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
