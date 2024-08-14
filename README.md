@@ -32,7 +32,7 @@ cd aptostut
 aptos move init --name aptostut
 ```
 
-confirm you obtained "Result: Success"
+Confirm you obtained "Result: Success"
 
 <h4>Create Dev wallet in project</h4>
 
